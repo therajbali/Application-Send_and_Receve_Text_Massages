@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practical 6</string>
+    <string name="btn1">Alert Dialog</string>
+    <string name="btn2">Progress Dialog</string>
+</resources>
